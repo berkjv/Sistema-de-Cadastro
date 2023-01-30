@@ -4,5 +4,5 @@
 Para Rodar esse projeto na sua maquina, por favor digite:
 
 ...
-npm install teste
+node app.js
 ...
